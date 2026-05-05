@@ -35,7 +35,7 @@ module.exports.run = async function ({ api, event, args }) {
       SYSTEM OS V17.5 - ULTIMATE CORE
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 [ HOST: ${os.hostname()} | ARCH: ${os.arch()} ]
-[ STATUS: ACTIVE | DEV: 61581906898524 ]
+[ STATUS: ACTIVE | DEV: 100081948980908 ]
 
 ┌──  CORE COMMANDS LIST  ──┐
 │
