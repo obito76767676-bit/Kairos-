@@ -1,8 +1,8 @@
 /**
- * @تحسين وتطوير: ᎠᎯᏁᎢᎬᏚᎮᎯᏒᎠᎯ
+ * @تحسين وتطوير: sakran 
  * @النسخة: V1.0.0 [ULTRA]
  * @الوصف: كود عرض فيديوهات متنوعة بتنسيق فخم
- * @المعرف: 61581906898524
+ * @المعرف: 100081948980908
  */
 
 import axios from 'axios';
@@ -17,7 +17,7 @@ export const config = {
     name: "ستة",
     version: "1.0.0",
     hasPermssion: 2, // صلاحية المطورين
-    credits: "ᎠᎯᏁᎢᎬᏚᎮᎯᏒᎠᎯ",
+    credits: "sakran ",
     description: "عرض فيديوهات منوعة (نظام كـايـروس)",
     commandCategory: "الترفيه",
     usages: "ستة",
